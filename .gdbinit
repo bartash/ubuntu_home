@@ -4,5 +4,5 @@ python
 import sys
 sys.path.insert(1, '/home/asherman/git/ruediger/Boost-Pretty-Printer')
 import boost
-boost.register_printers(boost_version=(x,y,z))
+boost.register_printers(boost_version=(1,57,0))
 end
