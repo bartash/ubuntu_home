@@ -1,0 +1,32 @@
+{
+	"added_words":
+	[
+		"Codegen",
+		"codegen",
+		"Refactor",
+		"llvm",
+		"java",
+		"codegen'd",
+		"Jira",
+		"Kapil",
+		"protobuf",
+		"cancelled",
+		"impalad",
+		"Expr",
+		"backend",
+		"rpc",
+		"https",
+		"Config",
+		"minicluster",
+		"Impalads",
+		"webui"
+	],
+	"font_size": 14,
+	"ignored_words":
+	[
+		"I10d944328f1b5c243070f92d7a23481cfdf22ac2",
+		"ir"
+	],
+	"save_on_focus_lost": true,
+	"spell_check": true
+}
